@@ -2,6 +2,7 @@
 
 
 
+
 Welcome to GrandChat, the social media platform that connects you with friends and allows you to enjoy a seamless and enjoyable experience. By using our app, you agree to the following terms:
 
 
@@ -202,8 +203,8 @@ For more detailed information regarding how your data may be collected, used, an
 8. Children’s Privacy
 Our services are intended solely for users who are 18 years of age or older. We do not knowingly collect personal information from individuals under the age of 18.
 
-Policy Regarding Users Under 13 (COPPA Compliance)
-In compliance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect, use, or share personal information of children under the age of 13. If we become aware that a child under the age of 13 has provided us with personal information, we will take steps to promptly delete such information from our records.
+Policy Regarding Users Under the age of 18
+In compliance with the People Online Safety, we do not knowingly collect, use, or share personal information of people under the age of 18. If we become aware that a person under the age of 18 has provided us with personal information, we will take steps to promptly delete such information from our records.
 
 If you are a parent or guardian and believe that your child has provided us with personal information, please stop your child from using the platform.
 

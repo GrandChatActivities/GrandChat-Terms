@@ -1,6 +1,7 @@
 # GrandChat-Terms_And_Conditions!!
 
 
+
 Welcome to GrandChat, the social media platform that connects you with friends and allows you to enjoy a seamless and enjoyable experience. By using our app, you agree to the following terms:
 
 
@@ -189,6 +190,11 @@ Lifecycle Process
 Used for managing lifecycle-aware components, ensuring optimal resource usage and app performance.
 Lifecycle Process Documentation
 
+
+ExoPlayer
+A media playback library used for streaming and playing audio/video content.
+ExoPlayer Privacy Policy (via Google)
+
 Links to Privacy Policies:
 For more detailed information regarding how your data may be collected, used, and processed by these third-party services, please refer to the respective privacy policies linked above. Each third-party service has its own privacy practices, and we recommend reviewing these documents to understand how your personal data is handled.
 
@@ -298,10 +304,3 @@ The Permissions we use in GrandChat are listed below::
 
 
 Thank you for choosing GrandChat. Enjoy connecting and engaging with friends while using our convenient app!
-
-
-
-
-
-
-
